@@ -107,7 +107,7 @@ st.markdown("<h1>SmartHire 🧠</h1>", unsafe_allow_html=True)
 st.markdown("<h4>AI-powered Resume Insights & Career Tools</h4>", unsafe_allow_html=True)
 
 # Logo image centered
-logo_path = "assets/logo.png"
+logo_path = "assets/Logo.png"
 cols = st.columns([1, 2, 1])
 with cols[1]:
     st.image(logo_path, use_container_width=True)
